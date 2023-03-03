@@ -1,0 +1,2 @@
+/root/CH341SER_LINUX/ch34x.ko
+/root/CH341SER_LINUX/ch34x.o
